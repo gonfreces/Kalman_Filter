@@ -3,7 +3,7 @@ import timeit
 
 # code snippet to be executed only once
 mysetup = "from math import sqrt"
-
+# Hello test comment
 # code snippet whose execution time is to be measured
 mycode = '''
 def solution(ranks):
